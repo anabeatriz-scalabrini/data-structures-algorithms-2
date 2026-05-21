@@ -1,5 +1,7 @@
-/* Ana Beatriz Gualti Scalabrini
-168706 */
+/*
+descricao: algoritmo merge sort modificado para contar quedas drasticas (inversoes) no vetor
+disciplina: algoritmos e estruturas de dados 2 - unifesp
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
