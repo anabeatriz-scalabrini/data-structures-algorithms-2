@@ -1,4 +1,7 @@
-//Ana Beatriz Gualti Scalabrini 168706
+/*
+descricao: filtragem e ordenacao de frequencia de palavras usando heap sort (max-heap in-place)
+disciplina: algoritmos e estruturas de dados 2 - unifesp
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
