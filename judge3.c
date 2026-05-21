@@ -1,3 +1,8 @@
+/*
+descricao: algoritmo quick sort com pivo por mediana de tres para ordenacao de pacientes
+disciplina: algoritmos e estruturas de dados 2 - unifesp
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
