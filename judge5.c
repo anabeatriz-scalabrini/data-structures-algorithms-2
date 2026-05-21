@@ -1,4 +1,7 @@
-//Ana Beatriz Gualti Scalabrini 168706
+/*
+descricao: arvore binaria de busca balanceada por peso com rotacoes duplas e simples
+disciplina: algoritmos e estruturas de dados 2 - unifesp
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
