@@ -1,5 +1,7 @@
-/*ANA BEATRIZ GUALTI SCALABRINI
-168706*/
+/*
+descricao: insertion sort em lista duplamente encadeada com contagem de comparacoes (nep)
+disciplina: algoritmos e estruturas de dados 2 - unifesp
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
